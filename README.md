@@ -1,9 +1,9 @@
-# CFD Projects Portfolio
+# Projects Portfolio
 
 **Author:** Amol Satdive  
 M.Tech – IITD  
 
-This repository contains selected computational fluid dynamics (CFD) related work.
+This repository contains selected Product design, CAD and computational fluid dynamics (CFD) related work.
 
 ---
 
