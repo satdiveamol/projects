@@ -4,7 +4,7 @@ plugins:
   - jekyll-remote-theme
 
 title: Amol Satdive
-description: CFD Portfolio | Turbulence | High-Performance Computing
+description: CFD/CAD Portfolio | Product Design | High-Performance Computing
 
 markdown: kramdown
 kramdown:
