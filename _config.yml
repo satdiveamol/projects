@@ -3,7 +3,7 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: Amol Satdive
+title: Amol Satdive (M.Tech IITD)
 description: CFD/CAD Portfolio | Product Design | High-Performance Computing
 
 markdown: kramdown
