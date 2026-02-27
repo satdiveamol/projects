@@ -11,6 +11,7 @@ This repository contains selected Product design, CAD and computational fluid dy
 
 **Supervisor:** Prof. Ritabrata Thakur  
 **Note:** Detailed solver modifications and additional importanant quantitative results cannot be shared at this stage as the work is unpublished.
+
 ---
 
 ## Overview
@@ -154,7 +155,19 @@ The solver includes:
 **Focus:** Product Design | Surface Modeling | Prototyping  
 
 ---
-## 1️⃣ Spool Holder (CAD + Prototype)
+
+## 1️⃣ Battery Swapping Station
+
+- Compact modular battery swapping concept  
+- Integrated locking & guiding mechanism  
+- Assembly-level design with internal component layout  
+
+![Battery Station 1](CAD/battery_swaping_station_1.jpg)  
+![Battery Station 2](CAD/battery_swaping_station_2.jpg)
+
+---
+
+## 2️⃣ Spool Holder (CAD + Prototype)
 
 - Designed ergonomic spool holder assembly  
 - CAD-to-physical prototype validation  
@@ -166,7 +179,7 @@ The solver includes:
 
 ---
 
-## 2️⃣ Biodegradable Bowl Design
+## 3️⃣ Biodegradable Bowl Design
 
 - Developed cad model of biodegradable bowl (250ml capacity) using surcafing workbench 
 
@@ -176,7 +189,7 @@ The solver includes:
 
 ---
 
-## 3️⃣ Air Sampling Robot – Gripper Mechanism
+## 4️⃣ Air Sampling Robot – Gripper Mechanism
 
 - Designed and develop prototype of dual-link gripper mechanism arm for opening and closing the the air sampler inlet and changing petri dish.
 – Selection of material, plating and electronic component for the same
@@ -186,13 +199,3 @@ The solver includes:
 
 ---
 
-## 4️⃣ Battery Swapping Station
-
-- Compact modular battery swapping concept  
-- Integrated locking & guiding mechanism  
-- Assembly-level design with internal component layout  
-
-![Battery Station 1](CAD/battery_swaping_station_1.jpg)  
-![Battery Station 2](CAD/battery_swaping_station_2.jpg)
-
----
