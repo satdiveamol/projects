@@ -7,11 +7,14 @@ This repository contains selected Product design, CAD and computational fluid dy
 
 ---
 
-# Project 1: Spectral Decomposition of Developed Turbulent Pipe Flows
+# Spectral Decomposition of Developed Turbulent Pipe Flows
 
 **Supervisor:** Prof. Ritabrata Thakur  
 **Status:** Ongoing (Unpublished Work)
 
+## Note
+
+Detailed solver modifications and additional importanant quantitative results cannot be shared at this stage as the work is unpublished.
 ---
 
 ## Overview
@@ -149,20 +152,18 @@ The solver includes:
 
 ---
 
----
-
 # CAD and Prototyping Work (CATIA V5)
 
-**Software:** CATIA V5  
-**Focus:** Product Design | Mechanism Design | Surface Modeling | Prototyping  
+**Software:** CATIA V5 | Solidworks
+**Focus:** Product Design | Surface Modeling | Prototyping  
 
 ---
 
 ## 1️⃣ Air Sampling Robot – Gripper Mechanism
 
-- Designed dual-link gripper mechanism for air-sampling robot  
-- Parametric assembly with motion validation  
-- Kinematic constraints verified in CATIA V5  
+- Designed and develop prototype of dual-link gripper mechanism arm for opening and closing the the air sampler inlet and changing petri dish.
+– Selection of material, plating and electronic component for the same
+– Performed workspace/reachability analysis of a robotic arm end-effector using MATLAB
 
 ![Air Sampling Robot](CAD/Gripper_Air_Sampling_Robot.jpg)
 
@@ -170,9 +171,7 @@ The solver includes:
 
 ## 2️⃣ Biodegradable Bowl Design
 
-- Surface-modeled biodegradable bowl  
-- Optimized wall thickness for structural integrity  
-- Mold-ready geometry (DFM considerations)  
+- Developed cad model of biodegradable bowl (250ml capacity) using surcafing workbench 
 
 ![Bowl Design 1](CAD/Biodegradable%20bowls%20-1.jpg)  
 ![Bowl Design 2](CAD/Biodegradable%20bowls%20-2.jpg)  
@@ -202,19 +201,3 @@ The solver includes:
 ![Battery Station 2](CAD/battery_swaping_station_2.jpg)
 
 ---
-
-## Skills Demonstrated
-
-- Parametric Part Design  
-- Assembly Design  
-- Mechanism Simulation  
-- Surface Modeling  
-- Design for Manufacturing (DFM)  
-- Prototype Development  
-
----
-
-
-## Note
-
-Detailed solver modifications and additional quantitative results of Project 1 cannot be shared at this stage as the work is unpublished.
