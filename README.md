@@ -149,6 +149,72 @@ The solver includes:
 
 ---
 
+---
+
+# CAD and Prototyping Work (CATIA V5)
+
+**Software:** CATIA V5  
+**Focus:** Product Design | Mechanism Design | Surface Modeling | Prototyping  
+
+---
+
+## 1️⃣ Air Sampling Robot – Gripper Mechanism
+
+- Designed dual-link gripper mechanism for air-sampling robot  
+- Parametric assembly with motion validation  
+- Kinematic constraints verified in CATIA V5  
+
+![Air Sampling Robot](CAD/Gripper_Air_Sampling_Robot.jpg)
+
+---
+
+## 2️⃣ Biodegradable Bowl Design
+
+- Surface-modeled biodegradable bowl  
+- Optimized wall thickness for structural integrity  
+- Mold-ready geometry (DFM considerations)  
+
+![Bowl Design 1](CAD/Biodegradable%20bowls%20-1.jpg)  
+![Bowl Design 2](CAD/Biodegradable%20bowls%20-2.jpg)  
+![Bowl Design 3](CAD/Biodegradable%20bowls%20-3.jpg)
+
+---
+
+## 3️⃣ Spool Holder (CAD + Prototype)
+
+- Designed ergonomic spool holder assembly  
+- CAD-to-physical prototype validation  
+- 3D printed functional model  
+
+![Spool CAD](CAD/Spool_Holder_cad.jpg)  
+![Spool CAD + Prototype](CAD/Spool_Holder_cad_prototype.jpg)  
+![Spool Prototype](CAD/Spool_Holder_prototype.jpg)
+
+---
+
+## 4️⃣ Battery Swapping Station
+
+- Compact modular battery swapping concept  
+- Integrated locking & guiding mechanism  
+- Assembly-level design with internal component layout  
+
+![Battery Station 1](CAD/battery_swaping_station_1.jpg)  
+![Battery Station 2](CAD/battery_swaping_station_2.jpg)
+
+---
+
+## Skills Demonstrated
+
+- Parametric Part Design  
+- Assembly Design  
+- Mechanism Simulation  
+- Surface Modeling  
+- Design for Manufacturing (DFM)  
+- Prototype Development  
+
+---
+
+
 ## Note
 
 Detailed solver modifications and additional quantitative results of Project 1 cannot be shared at this stage as the work is unpublished.
