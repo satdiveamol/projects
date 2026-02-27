@@ -10,8 +10,6 @@ This repository contains selected Product design, CAD and computational fluid dy
 # Spectral Decomposition of Developed Turbulent Pipe Flows
 
 **Supervisor:** Prof. Ritabrata Thakur  
-**Status:** Ongoing (Unpublished Work)
-
 **Note:** Detailed solver modifications and additional importanant quantitative results cannot be shared at this stage as the work is unpublished.
 ---
 
