@@ -158,14 +158,15 @@ The solver includes:
 **Focus:** Product Design | Surface Modeling | Prototyping  
 
 ---
+## 1️⃣ Spool Holder (CAD + Prototype)
 
-## 1️⃣ Air Sampling Robot – Gripper Mechanism
+- Designed ergonomic spool holder assembly  
+- CAD-to-physical prototype validation  
+- 3D printed functional model  
 
-- Designed and develop prototype of dual-link gripper mechanism arm for opening and closing the the air sampler inlet and changing petri dish.
-– Selection of material, plating and electronic component for the same
-– Performed workspace/reachability analysis of a robotic arm end-effector using MATLAB
-
-![Air Sampling Robot](CAD/Gripper_Air_Sampling_Robot.jpg)
+![Spool CAD](CAD/Spool_Holder_cad.jpg)  
+![Spool CAD + Prototype](CAD/Spool_Holder_cad_prototype.jpg)  
+![Spool Prototype](CAD/Spool_Holder_prototype.jpg)
 
 ---
 
@@ -179,15 +180,13 @@ The solver includes:
 
 ---
 
-## 3️⃣ Spool Holder (CAD + Prototype)
+## 3️⃣ Air Sampling Robot – Gripper Mechanism
 
-- Designed ergonomic spool holder assembly  
-- CAD-to-physical prototype validation  
-- 3D printed functional model  
+- Designed and develop prototype of dual-link gripper mechanism arm for opening and closing the the air sampler inlet and changing petri dish.
+– Selection of material, plating and electronic component for the same
+– Performed workspace/reachability analysis of a robotic arm end-effector using MATLAB
 
-![Spool CAD](CAD/Spool_Holder_cad.jpg)  
-![Spool CAD + Prototype](CAD/Spool_Holder_cad_prototype.jpg)  
-![Spool Prototype](CAD/Spool_Holder_prototype.jpg)
+![Air Sampling Robot](CAD/Gripper_Air_Sampling_Robot.jpg)
 
 ---
 
